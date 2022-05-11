@@ -1,4 +1,4 @@
-# Personal-finance-Analysis
+# Personal-finance-Analysis in Microsoft Power BI
 1. this is a virtual Personal dataset of an Employee. 
 2. Which have a fixed salary and some incentives amount on festival.
 3. Now the Employee want to check his financial helth.
